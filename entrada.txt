@@ -1,0 +1,7 @@
+S A B C D E
+a b c d e eps
+S
+S aA
+S eps
+A bBaA
+A eps

@@ -1,0 +1,16 @@
+X Y Z K W T
+a b c
+X
+X KW
+X aK
+Y eps
+Y XWb
+Z XK
+Z Y
+Z cK
+K b
+K XWa
+W Y
+W XbY
+T cZY
+T YbZ
