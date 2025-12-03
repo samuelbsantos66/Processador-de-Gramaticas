@@ -1,5 +1,4 @@
-# Processador-de-Gramaticas
-## 📘  Processador de Gramáticas (GLC) — Python
+# Processador de Gramáticas — Python
 
 Este repositório contém um processador completo de gramáticas, escrito em Python, capaz de:
 
